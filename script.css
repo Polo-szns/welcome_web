@@ -1,0 +1,63 @@
+/*.card {
+    background-color: beige;
+    padding: 10px;
+    border: 1px solid;
+}
+.hidden{
+    display: none;
+}
+.body{
+    font-family:sans-serif;
+}
+.dark{
+    background: #333;
+    color: aqua;
+}*/
+
+body{
+    font-family:sans-serif;
+    font-weight: lighter;
+}
+
+div{
+    border: solid 1px;
+    margin: 1em;
+    background-color: aqua;
+
+}
+h1{
+    color:rebeccapurple;
+}
+#submit:hover{
+    color: red;
+}
+#cancel:hover{
+    color: red;
+}
+#reset:hover{
+    color: red;
+}
+#submit{
+     background-color: black;
+     color: white;
+     border-radius: 5px;
+     font-weight: bold;
+     cursor: pointer;
+}
+#cancel{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#reset{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+
